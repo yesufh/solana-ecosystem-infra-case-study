@@ -21,13 +21,17 @@ Rather than discouraging me, this anomaly sparked a deep fascination with how th
 </p>
 
 ***
+## **2. Algorithmic Infrastructure: piotrostr (Listen-rs & ARC)**
 
-**2. Algorithmic Infrastructure: Piotrostr (Listen-rs & ARC)**
-**The Research:** To solve the latency issues of manual trading, I pivoted to **Infrastructure Analysis**, focusing on the work of **Piotrostr (Piotrek)**. 
+**The Research:** After experiencing the volatility of manual, sentiment-based entries, I pivoted to **Infrastructure Analysis**. I stumbled upon a niche sector of the Solana ecosystem known as **DeFAI** (Decentralized Finance + AI), which focused on building high-performance tools for autonomous agents. My research led me to **piotrostr**, a lead engineer whose GitHub was gaining significant traction.
 
-**Systems Analysis:** I performed a deep-dive into the **Listen-rs** framework and the **AI Rig Complex (ARC)**. 
-* **Technical Stack:** Analyzing Piotrek's GitHub—specifically his implementation of high-performance Rust cores and Jito MEV bundles—demonstrated how AI agents (DeFAI) achieve real-time **Observability**. 
-* **Implementation:** I aligned my portfolio with the $LISTEN and $ARC partnership, treating these not as "coins," but as "infrastructure bets."
+**Systems Analysis:** I performed a deep-dive into the **Listen-rs** ($LISTEN) framework and the **AI Rig Complex** ($ARC).
+* **$listen (listen-rs):** Originally a "Solana Swiss Army Knife" for algorithmic trading, it evolved into a go-to framework for AI-powered cross-chain portfolio management. It provides the low-level "plumbing" for real-time transaction monitoring and fast execution using **Jito MEV bundles**.
+* **$arc (AI Rig Complex):** A modular AI agent framework (or "rig") designed for building autonomous applications. It is built in Rust for maximum performance, allowing agents to execute trades and manage wallets programmatically.
+
+**The Implementation:** I was fascinated by how $listen was designed for **plug-and-play integration** with the $arc rig framework. This synergy allows developers to create agents that don't just "chat," but actively analyze and operate across chains with machine efficiency. 
+
+**The Technical Takeaway:** Beyond the tech, I observed the market's reaction to high-quality engineering. When piotrostr’s GitHub reached an impressive **1.1k stars**, it served as a technical validation that drove the valuation of $LISTEN upward. Seeing the strategic partnership between the lean $listen infrastructure and the high-valuation $arc ecosystem taught me how technical interoperability creates massive market value. I aligned my portfolio with these "infrastructure bets," focusing on how I could eventually implement these tools to automate my own trading and remove human latency from the equation.
 
 <p align="center">
   <img src="assets/piotrostr-listen-github.png" width="450" hspace="10">
