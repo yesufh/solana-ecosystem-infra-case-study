@@ -5,7 +5,7 @@
 **The Event:** In January 2025, a high-profile ticker launch created a "Verification Paradox." Without an immediate Contract Address (CA), the market was forced to rely on social media as a primary data source.
 
 **Systems Analysis:** I analyzed the split between "Social Sentiment" and "Network Reality." While prominent traders like **Taco** signaled a "Liquidity Drain" (FUD), the underlying volume metrics ($500M+) suggested a massive expansion. 
-* **The Takeaway:** I identified a "conviction threshold"—if a single tweet can shake out a holder base, the system's "social uptime" is low. Filtering this noise is a core technical skill I now prioritize.
+* **The Takeaway:** I identified a "conviction threshold"—if a single tweet can make a holder sell without an objective reason, the system's "social uptime" is low. Filtering this noise is a core technical skill I now prioritize.
 
 <p align="center">
   <img src="assets/trump_tweets_coin.png" width="300" hspace="5">
