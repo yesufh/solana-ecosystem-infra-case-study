@@ -10,7 +10,9 @@
 * **The FUD (Fear, Uncertainty, and Doubt) Camp:** This side (which I was initially in) "faded" the entry, convinced the risk of a systemic exploit was too high.
 * **The Opportunity Camp:** Some participants ignored the social noise, recognized the authenticity of the source, and captured a **90x return** from the moment It was tweeted to its eventual peak.
 
-**The Technical Takeaway:** I missed a life-changing expansion because I relied on **Social Sentiment as an Oracle**, which proved to be a "noisy" and unreliable data source. This was my introduction to the crypto ecosystem—a baptism by fire that taught me the "Logic Ceiling" of manual, emotion-driven trading. I realized that to succeed, I had to stop looking at tweets and start looking at the code.
+**The Technical Takeaway:** This experience served as my high-stakes introduction to the crypto ecosystem—a baptism by fire that demonstrated the "Logic Ceiling" of relying on social sentiment as an Oracle. Missing a massive expansion due to human bias and external noise taught me that in a 24/7 market, emotion-driven execution is a systemic vulnerability. 
+
+Rather than discouraging me, this anomaly sparked a deep fascination with how these decentralized systems actually function. I realized that to find sustainable Alpha, I needed to look past the surface-level hype and understand the underlying mechanics of the network. This shift in perspective drove me to dive deeper into the space, eventually leading me away from the "noise" and toward the technical infrastructure that powers it all.
 
 <p align="center">
   <img src="assets/trump_tweets_coin.png" width="300" hspace="5">
