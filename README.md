@@ -5,7 +5,7 @@
 **The Event:** In January 2025, a high-profile ticker launch created a "Verification Paradox." Without an immediate Contract Address (CA), the market was forced to rely on social media as a primary data source.
 
 **Systems Analysis:** I analyzed the split between "Social Sentiment" and "Network Reality." While prominent traders like **Taco** signaled a "Liquidity Drain" (FUD), the underlying volume metrics suggested a massive expansion. 
-* **The Takeaway:** I identified a "conviction threshold"—if a single tweet can shake out a holder base, the system's "social uptime" is low. Filtering this noise is a core technical skill I now prioritize.
+* **The Takeaway:** I identified a "conviction threshold"—if a single tweet can make a holder sell without an objective reason, the system's "social uptime" is low. Filtering this noise is a core technical skill I now prioritize.
 
 <p align="center">
   <img src="assets/trump_tweets_coin.png" width="300" hspace="5">
@@ -23,7 +23,7 @@
 * **Implementation:** I aligned my portfolio with the $LISTEN and $ARC partnership, treating these not as "coins," but as "infrastructure bets."
 
 <p align="center">
-  <img src="assets/piotrek-listen-github.png" width="450" hspace="10">
+  <img src="piotrek-listen-github.png" width="450" hspace="10">
   <img src="assets/listen_and_arc_holdings.png" width="450" hspace="10">
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="assets/peak_portfolio_100k.png" width="450" hspace="10">
-  <img src="assets/trader-article.png" width="450" hspace="10">
+  <img src="trader-article.png" width="450" hspace="10">
 </p>
 
 ***
@@ -52,8 +52,8 @@
 
 <p align="center">
   <img src="assets/sol_the_trophy_tomato.png" width="450" hspace="10">
-  <img src="assets/sol_the_trophy2_tomato.png" width="450" hspace="10">
+  <img src="sol_the_trophy2_tomato.png" width="450" hspace="10">
 </p>
 
 ***
-**© 2026
+**© 2026 Yesuf Hassen | IT Student @ NOVA | Presidential Scholar**
