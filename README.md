@@ -8,7 +8,7 @@
 **Systems Analysis:** I personally fell victim to **Cognitive Bias**. The event was so outside the norm of presidential behavior that I, along with many others, dismissed it as a hack or a scam. As shown in the attached posts, the market split into two distinct camps:
 
 * **The FUD (Fear, Uncertainty, and Doubt) Camp:** This side (which I was initially in) "faded" the entry, convinced the risk of a systemic exploit was too high.
-* **The Opportunity Camp:** These participants ignored the social noise, recognized the authenticity of the source, and captured a **45x return** from the moment I first saw it to its eventual peak.
+* **The Opportunity Camp:** Some participants ignored the social noise, recognized the authenticity of the source, and captured a **90x return** from the moment It was tweeted to its eventual peak.
 
 **The Technical Takeaway:** I missed a life-changing expansion because I relied on **Social Sentiment as an Oracle**, which proved to be a "noisy" and unreliable data source. This was my introduction to the crypto ecosystem—a baptism by fire that taught me the "Logic Ceiling" of manual, emotion-driven trading. I realized that to succeed, I had to stop looking at tweets and start looking at the code.
 
